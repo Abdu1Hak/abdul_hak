@@ -1,7 +1,7 @@
 import scam from "../assets/scam.png"
 import yt2 from "../assets/yt2.png"
 import ghost from "../assets/ghost .png"
-
+import robot from "../assets/robot.png"
 export const HERO_CONTENT = `I'm a driven STEM enthusiast with a strong background in programming, robotics, and mathematics. I enjoy building practical applications with Python and continuously expanding my skills in web development framworks like Next.js and Django. As a former VEX robotics instructor, I've developed natural leadership and mentorship abilities, and I'm actively involved in my community projects. I'm eager to learn, collaborate, and solve real-world problems using technology.`;
 
 export const ABOUT_TEXT = `Hi, I’m Abdul, a Grade 11 student at St. Marcellinus with a passion for STEM, sports, and creative tech projects. I’m an Executive of the STEM Club, where I help lead hands-on initiatives in coding and robotics.
@@ -52,7 +52,15 @@ export const PROJECTS = [
     description:
       "A thrilling 2D shooter game where you shoot and survive against ghosts!.",
     technologies: ["Python", "Pygame"],
-  }
+  }, 
+  {
+    title: "V5 Claw Bot",
+    image: robot,
+    description:
+      "The competition Vex V5 Claw bot",
+    technologies: ["VEX", "Engineering"],
+  }, 
+
 ];
 
 export const CONTACT = {
