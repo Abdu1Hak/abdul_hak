@@ -4,7 +4,8 @@ import ghost from "../assets/ghost .png"
 
 export const HERO_CONTENT = `I'm a driven STEM enthusiast with a strong background in programming, robotics, and mathematics. I enjoy building practical applications with Python and continuously expanding my skills in web development framworks like Next.js and Django. As a former VEX robotics instructor, I've developed natural leadership and mentorship abilities, and I'm actively involved in my community projects. I'm eager to learn, collaborate, and solve real-world problems using technology.`;
 
-export const ABOUT_TEXT = `My name is Abdul. I'm a grade 11 student at St. Marcellinus who loves playing sports and creating cool projects. I'm an Executive of the STEM Club. I've represented my previous school in many sports such as Soccer, Basketball, and Cricket. I enjoy reading and love to travel. I'm proficient in Python, and creating projects with the Arduino and similar technologies.`;
+export const ABOUT_TEXT = `Hi, I’m Abdul, a Grade 11 student at St. Marcellinus with a passion for STEM, sports, and creative tech projects. I’m an Executive of the STEM Club, where I help lead hands-on initiatives in coding and robotics.
+I’m proficient in Python and enjoy building applications and hardware projects using Arduino and ESP32. Outside of tech, I’ve represented my school in soccer, basketball, and cricket, and I love reading and traveling in my free time.`;
 
 export const EXPERIENCES = [
   {
